@@ -1,0 +1,47 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+.button{
+  margin-top: 5%;
+  color: #6E3CBC;
+  font-size: 1rem;
+}
+body {
+  background-color: #B8E4F0;
+}
+
+h1 {
+  margin:2%;
+
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #6E3CBC;
+}
+
+p {
+  font-size: 2rem;
+  color: #005ff8;
+  font-family: 'Arial', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #ea02ff;
+  text-align: center;
+  font-family: 'Ubuntu';
+  font-size: 3rem;
+
+}
